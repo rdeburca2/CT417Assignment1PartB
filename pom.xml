@@ -20,7 +20,7 @@
             <dependency>
 	    <groupId>com.github.rdeburca2</groupId>
 	    <artifactId>CT417Assignment1</artifactId>
-	    <version>1751a766f8</version>
+	    <version>84710f0327</version>
 	</dependency>
         </dependencies>
         
